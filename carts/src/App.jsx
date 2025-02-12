@@ -65,9 +65,6 @@ function App() {
     "Mirarnos fijamente mientras lo hacemos salvajemente.",
     "Hacerlo en una silla sin dejarte mover.",
     "Meter los dedos en la vagina",
-    
-
-
   ]);
 
   const ruletaRef = useRef(null);
